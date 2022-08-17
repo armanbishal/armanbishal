@@ -72,7 +72,8 @@
 - Frontend Development using **Angular**
 - Backend Development using **Django**, **Spring**
 - Relational Database Management System using **SQLite**, **MySQL**
-- Solving Data Structure and Algorithm problems in **Java**
+- Relevant Technologies **RabbitMQ**, **Grafana**
+- Solving Data Structure and Algorithm problems in **Python**
 - Version Control System: **Git** 
 - Operating System: **Linux (Ubuntu)**, **Windows**
 
