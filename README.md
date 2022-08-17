@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/96bbc96af4d48d633bebb993c52e637f/cd265649d5c353e8-79/s540x810/efa7c1b8ced2790881b6e19c309ccb5a5d2e47aa.gif"/>
+  <img src="https://i.ytimg.com/vi/kgx4WGK0oNU/maxresdefault.jpg"/>
 </p>
 <hr>
 
