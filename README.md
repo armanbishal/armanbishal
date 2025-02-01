@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-<h3 align="left">I'm MD. Arman Islam</h3>
+<h3 align="left">I'm Armaan Bishal</h3>
 
 - 💬 Ask me about **Java**, **Python**, **JavaScript**, **TypeScript**, **Data Structures**, **Algorithms**, **Angular**, **Django**, **Spring**
 
