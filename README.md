@@ -3,4 +3,4 @@
 </p>
 <hr>
 
-<h3 align="left">I'm Arman!</h3>
+<h3 align="left">Hi, I'm Arman!</h3>
